@@ -1,0 +1,4 @@
+bjr
+<sousbal1  var1=valeur var2=autre>
+	soudata2
+<\sousbal1>
